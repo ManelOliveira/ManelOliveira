@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Emanuel Oliveira 👋
 
-- 🌱 Estudante
+- 🌱 Estudante de Sistemas de Informação
 - 📫 Contate-me no email: contamanel74@gmail.com
 
  <div>
